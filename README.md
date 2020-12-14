@@ -1,6 +1,6 @@
 # vg-bike-stats
 
-[PR](https://github.com/ahmad-swedani/chess-board/pull/1)
+[PR](https://github.com/Hamza-Rashed/vg-bike-stats/pull/1)
 
 ## Create tow notebooks .... 
 
